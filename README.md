@@ -1,3 +1,5 @@
+> This repo is a fork from [ml-coursera-python-assignments by Gerges Dib](https://github.com/dibgerge/ml-coursera-python-assignments) included with assignments solutions
+
 # [Coursera Machine Learning MOOC by Andrew Ng](https://www.coursera.org/learn/machine-learning) 
 # Python Programming Assignments
 
